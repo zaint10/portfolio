@@ -3,13 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "gh-pages": "^2.1.1",
+    "homepage": "https://zaint10.github.io/portfolio",
+    "i": "^0.3.6",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-mdl": "^1.11.0",
+    "react-pdf": "^4.1.0",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

@@ -1,26 +1,47 @@
 import React from 'react';
-import logo from './logo.svg';
+
 import './App.css';
+import { Layout, Header, Navigation, Content } from 'react-mdl';
+import Main from './components/main';
+import Footer from './components/footer'
+import { Link } from 'react-router-dom';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<div>
+			<Layout className="app-root" fixedHeader>
+			
+					<Header hideTop
+						className="header"
+						title={
+							<Link className="header-title" to="/">
+								Zain Tanveer |
+						</Link>}>
+
+						<Navigation className="nav">
+							<Link to="/resume.pdf">
+								<p>Resume</p>
+							</Link>
+							<Link to="/projects">
+								<p>Projects</p>
+							</Link>
+							<Link to="/contact">
+								<p>Contact</p>
+							</Link>
+						</Navigation>
+					</Header>
+				
+				
+				
+				<Content>
+						<Main />
+						{/* <Footer /> */}	
+				</Content>
+				
+			</Layout>
+			
+		</div>
+	);
 }
 
 export default App;
