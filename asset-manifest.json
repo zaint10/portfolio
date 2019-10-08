@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.fffb3267.chunk.css",
-    "main.js": "/static/js/main.34b3cf31.chunk.js",
-    "main.js.map": "/static/js/main.34b3cf31.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.67a84473.js",
-    "runtime-main.js.map": "/static/js/runtime-main.67a84473.js.map",
-    "static/css/2.04aae6c4.chunk.css": "/static/css/2.04aae6c4.chunk.css",
-    "static/js/2.c6d875a6.chunk.js": "/static/js/2.c6d875a6.chunk.js",
-    "static/js/2.c6d875a6.chunk.js.map": "/static/js/2.c6d875a6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b86c4ee06494ec2dff10877bae5aa60e.js": "/precache-manifest.b86c4ee06494ec2dff10877bae5aa60e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.04aae6c4.chunk.css.map": "/static/css/2.04aae6c4.chunk.css.map",
-    "static/css/main.fffb3267.chunk.css.map": "/static/css/main.fffb3267.chunk.css.map",
-    "static/media/des_portfolio.JPG": "/static/media/des_portfolio.fb3fb94c.JPG"
+    "main.css": "/portfolio/static/css/main.5ca79692.chunk.css",
+    "main.js": "/portfolio/static/js/main.3317d64d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3317d64d.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.021c856b.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.021c856b.js.map",
+    "static/css/2.04aae6c4.chunk.css": "/portfolio/static/css/2.04aae6c4.chunk.css",
+    "static/js/2.c6d875a6.chunk.js": "/portfolio/static/js/2.c6d875a6.chunk.js",
+    "static/js/2.c6d875a6.chunk.js.map": "/portfolio/static/js/2.c6d875a6.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.ce89aaf576018adfc388f1bfb8187d87.js": "/portfolio/precache-manifest.ce89aaf576018adfc388f1bfb8187d87.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.04aae6c4.chunk.css.map": "/portfolio/static/css/2.04aae6c4.chunk.css.map",
+    "static/css/main.5ca79692.chunk.css.map": "/portfolio/static/css/main.5ca79692.chunk.css.map",
+    "static/media/des_portfolio.JPG": "/portfolio/static/media/des_portfolio.fb3fb94c.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.67a84473.js",
+    "static/js/runtime-main.021c856b.js",
     "static/css/2.04aae6c4.chunk.css",
     "static/js/2.c6d875a6.chunk.js",
-    "static/css/main.fffb3267.chunk.css",
-    "static/js/main.34b3cf31.chunk.js"
+    "static/css/main.5ca79692.chunk.css",
+    "static/js/main.3317d64d.chunk.js"
   ]
 }
