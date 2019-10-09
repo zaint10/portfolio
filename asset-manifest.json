@@ -1,27 +1,32 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.67fb2f67.chunk.css",
-    "main.js": "/portfolio/static/js/main.5422556d.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5422556d.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.7fa3e943.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7fa3e943.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.021c856b.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.021c856b.js.map",
     "static/css/2.04aae6c4.chunk.css": "/portfolio/static/css/2.04aae6c4.chunk.css",
-    "static/js/2.a8b99338.chunk.js": "/portfolio/static/js/2.a8b99338.chunk.js",
-    "static/js/2.a8b99338.chunk.js.map": "/portfolio/static/js/2.a8b99338.chunk.js.map",
+    "static/js/2.fa0c84a6.chunk.js": "/portfolio/static/js/2.fa0c84a6.chunk.js",
+    "static/js/2.fa0c84a6.chunk.js.map": "/portfolio/static/js/2.fa0c84a6.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.ecbd0c16ad4ad90ea8f3c7a497773790.js": "/portfolio/precache-manifest.ecbd0c16ad4ad90ea8f3c7a497773790.js",
+    "precache-manifest.3582c02cfd3b882c65cc5df37eb17013.js": "/portfolio/precache-manifest.3582c02cfd3b882c65cc5df37eb17013.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.04aae6c4.chunk.css.map": "/portfolio/static/css/2.04aae6c4.chunk.css.map",
     "static/css/main.67fb2f67.chunk.css.map": "/portfolio/static/css/main.67fb2f67.chunk.css.map",
     "static/media/App.css": "/portfolio/static/media/zain002.4804b85a.jpg",
-    "static/media/des_portfolio.JPG": "/portfolio/static/media/des_portfolio.fb3fb94c.JPG",
+    "static/media/card_back.jpg": "/portfolio/static/media/card_back.b0564d8e.jpg",
+    "static/media/card_bb.jpg": "/portfolio/static/media/card_bb.fc811358.jpg",
+    "static/media/card_lms.jpg": "/portfolio/static/media/card_lms.958ad58b.jpg",
+    "static/media/card_portfolio.jpg": "/portfolio/static/media/card_portfolio.ba37575f.jpg",
+    "static/media/card_rps.JPG": "/portfolio/static/media/card_rps.71b4077e.JPG",
+    "static/media/desk.jpg": "/portfolio/static/media/desk.5973e43e.jpg",
     "static/media/resume.pdf": "/portfolio/static/media/resume.c757a3d1.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.021c856b.js",
     "static/css/2.04aae6c4.chunk.css",
-    "static/js/2.a8b99338.chunk.js",
+    "static/js/2.fa0c84a6.chunk.js",
     "static/css/main.67fb2f67.chunk.css",
-    "static/js/main.5422556d.chunk.js"
+    "static/js/main.7fa3e943.chunk.js"
   ]
 }
